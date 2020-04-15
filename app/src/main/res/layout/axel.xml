@@ -9,7 +9,7 @@
         android:id="@+id/button5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Axel"
+        android:text="Axell"
         tools:layout_editor_absoluteX="147dp"
         tools:layout_editor_absoluteY="348dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
