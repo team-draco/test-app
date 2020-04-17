@@ -40,4 +40,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="172dp" />
+        android:text="Sebb"
+        android:textSize="36sp"
+        tools:layout_editor_absoluteX="154dp"
+        tools:layout_editor_absoluteY="312dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
