@@ -40,7 +40,15 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="172dp" />
-        android:text="Sebb"
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="250dp"
+        tools:layout_editor_absoluteY="27dp"
+        tools:srcCompat="@tools:sample/avatars" />
+    android:text="Sebb"
         android:textSize="36sp"
         tools:layout_editor_absoluteX="154dp"
         tools:layout_editor_absoluteY="312dp" />
