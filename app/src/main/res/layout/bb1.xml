@@ -8,45 +8,50 @@
 
     <TextView
         android:id="@+id/textView9"
-        android:layout_width="172dp"
-        android:layout_height="101dp"
-        android:text="Benjamin"
+        android:layout_width="89dp"
+        android:layout_height="43dp"
+        android:text="Tinder"
         android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.515"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="603dp" />
+        app:layout_constraintTop_toBottomOf="@+id/textView12"
+        app:layout_constraintVertical_bias="0.727" />
 
     <Button
         android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="154dp"
-        tools:layout_editor_absoluteY="478dp" />
+        android:text="Swipe Right"
+        tools:layout_editor_absoluteX="244dp"
+        tools:layout_editor_absoluteY="460dp" />
 
     <Button
         android:id="@+id/button6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="154dp"
-        tools:layout_editor_absoluteY="412dp" />
+        android:text="Swipe left"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="460dp" />
 
     <TextView
         android:id="@+id/textView12"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="William"
+        android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="172dp" />
+        tools:layout_editor_absoluteY="270dp" />
 
     <ImageView
         android:id="@+id/imageView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        tools:layout_editor_absoluteX="250dp"
-        tools:layout_editor_absoluteY="27dp"
+        tools:layout_editor_absoluteX="141dp"
+        tools:layout_editor_absoluteY="108dp"
         tools:srcCompat="@tools:sample/avatars" />
     android:text="Sebb"
         android:textSize="36sp"
