@@ -31,4 +31,12 @@
         android:text="Button"
         tools:layout_editor_absoluteX="154dp"
         tools:layout_editor_absoluteY="412dp" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sebb"
+        tools:layout_editor_absoluteX="172dp"
+        tools:layout_editor_absoluteY="221dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
